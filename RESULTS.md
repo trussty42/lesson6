@@ -2,7 +2,7 @@
 
 ```bash
 pip install -r requirements.txt
-# положите свой текст в data/input.txt (или другой .txt файл)
+# положить свой текст в data/input.txt
 python train_generator.py          # обучение, чекпоинты в checkpoints_gen/
 python chat.py                     # чат с генерацией (sampling)
 python chat.py --beam              # чат с beam search
