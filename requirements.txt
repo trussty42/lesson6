@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+torch
+torchvision
+datasets
+numpy
+matplotlib
+tqdm
+transformers
+sentencepiece
+protobuf
+nltk
